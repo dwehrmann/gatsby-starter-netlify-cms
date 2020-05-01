@@ -5,7 +5,7 @@ image: /img/products-grid3.jpg
 heading: Great coffee with NO conscience
 subheading: Support enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Hedwitschak Drums
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
