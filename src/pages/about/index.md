@@ -1,11 +1,15 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: About us coffee
 ---
 ### Shade-grown coffee
 
-Coffee is a small thing that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+> ```abuild
+> <code>test</code>
+> ```
+>
+>  is a small thing that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
 ### Single origin
 
