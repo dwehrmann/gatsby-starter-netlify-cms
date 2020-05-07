@@ -29,6 +29,13 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `backgrounds`,
+        path: `${__dirname}/src/img/bg`, // wherever background images are stored
+      },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
@@ -59,6 +66,7 @@ module.exports = {
         ],
       },
     },
+   
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
